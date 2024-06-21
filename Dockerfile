@@ -1,4 +1,4 @@
-FROM alpine:3.18.6
+FROM alpine:3.18
 
 RUN npm install -g npm@9.1.3
 
